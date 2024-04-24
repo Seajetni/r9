@@ -16,6 +16,7 @@ export function CardDefault({ content }) {
             <img
               src={img}
               alt="card-image"
+              className="   h-full w-full"
             />
           </CardHeader>
           <CardBody>
