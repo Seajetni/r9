@@ -57,7 +57,7 @@ export default function Home() {
                   controls
                   autoPlay
                   loop
-                  muted
+               
                 >
                   <source
                     src="/home.mp4"
