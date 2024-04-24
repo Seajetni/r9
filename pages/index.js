@@ -16,7 +16,7 @@ export default function Home() {
    {
     img: "https://th.bing.com/th/id/OIP.E0jFJGNwPLOyRjetd6ADlQHaHa?rs=1&pid=ImgDetMain" ,
     title: "หลัก 3 ห่วง 2 เงื่อนไข" ,
-    details: " l sit repudiandae delectus, error quos totam obcaecati quam, natus beatae in aut odio!"
+    details: " l sit repudiandae delectus,  l sit repudiandae delectuserror quos totam obcaecati quam, natus beatae in aut odio!"
  }
    ]
    const content2 = [
